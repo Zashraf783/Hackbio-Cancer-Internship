@@ -1,6 +1,6 @@
 # The central dogma of molecular biology: A simple introduction to its concept and machine learning/data science applications # 
 
-Author (@slack): Zeyad Ashraf (@Zeyad)
+Author (@slack): Zeyad Ashraf (@Zashraf03)
 
 
 The central dogma of microbiology was first declared by Crick in 1958\. Its concept was that the genetic code of life, which was figured out 5 years prior to the conceptualisation of the central dogma when the structure of DNA was figured out, would flow from the DNA form inside the nucleus and get translated into the RNA form found all over the cell. Then, it gets translated into its protein form, which, with further enhancements and folding, carries out the function of the gene from which it was translated. The central dogma also helped us by providing a more profound and direct relation to what causes cancers and how to cure them. 
